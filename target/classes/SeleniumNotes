@@ -1,0 +1,51 @@
+PROS:
+1. Open source
+
+2. supports multiple languages:
+java ,c# , .net , python, perl,ruby , javascript
+
+3. supports all the platforms/os
+Windows,Mac OS,Linux,Unix
+
+4.Cross browser testing
+CHROME FF SAFARI IE OPERA
+
+5. headless browser 
+PhantomJS HTMLUNITDRIVER CHROMEHeadless
+
+6. Can be integrated with any open source unit testing frame work
+TestNG T-Unit -->TDD
+
+7. BDD Frame-work
+Cucumber JBehave Serenity
+
+8. Light Weight 
+
+9.Available in the forms of APIs
+
+10. CI-CD
+Jenkins
+
+11. csn be executed on local machine as well as on cloud/vm/servers
+BrowserStack SaucseLabs AWS Docker
+
+12. customize Web-Driver code base-->source code will be shared
+
+13.Wrappers: Appium, Protector, Watir ,Robot Framework
+
+CONS;
+1. AS its an open source, so no direction support
+
+2. You need to know programming-->No Scriptless or codeless Automation
+
+3. no desktop app automation support
+
+4. no report for test results
+
+5. for any extra work: test cases designing,report ,build ,CI-CD
+
+6. no bar code/ no captcha
+
+
+
+
